@@ -1,0 +1,6 @@
+{
+  "name": "NITYOKART — Fresh Grocery & Harvest Reservation",
+  "description": "Artisanal grocery e-commerce and harvest reservation with 3D interactive visuals, ultra-fresh farm produce, and doorstep delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
